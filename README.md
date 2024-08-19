@@ -1,4 +1,6 @@
-# Setup Backend
+# Setup Backend (spring-boot)
+ * minimum java version 17, MySQL:8.x.x
+   
 Setting Up Your Local Machine (Backend)
 Clone the Backend Repository:
 (i) Clone the blood4family-backend repository to your local machine. Extract and Open in an IDE Extract the repository's contents (if necessary). Open the folder in an IDE like Eclipse or Spring Tool Suite (STS).
